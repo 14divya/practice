@@ -1,5 +1,5 @@
 #Operations on strings and tuples
-print("Enter 1 for operations on string, 2 for operations on tuples and 'q' for exiting:")
+print("Enter '1' for operations on string, '2' for operations on tuples and 'q' for exiting:")
 while True:
 	ch=input("Enter your choice:")
 	if ch=="1":
